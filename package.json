@@ -1,0 +1,22 @@
+{
+  "name": "kfk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "hs ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crossskyLi/kfk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crossskyLi/kfk/issues"
+  },
+  "homepage": "https://github.com/crossskyLi/kfk#readme",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
+}
